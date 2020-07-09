@@ -25,4 +25,7 @@ When the script is executed
 7. You can connect to postgres on the localhost with user,password and database name as demo
 
 
+##### Screenshots
+1. ![connect to the database](https://github.com/pratio/postgres-docker-sample/blob/master/connect.png)
+2. ![select from view](https://github.com/pratio/postgres-docker-sample/blob/master/view.png)
 
